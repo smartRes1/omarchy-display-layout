@@ -1,0 +1,14 @@
+{
+  "app.name": "Display Layout",
+  "panel.title": "Arrange displays",
+  "panel.saved": "Saved layout for %1",
+  "panel.new": "New combination: %1 (not saved yet)",
+  "display.laptop": "Laptop",
+  "button.discard": "Discard",
+  "button.save": "Save",
+  "hint.idle": "Drag a display and let go: it snaps to an edge (top, middle, bottom) · Esc: close",
+  "hint.changed": "Already applied, try the mouse · Enter: save · Esc: back to the saved layout",
+  "saved.title": "Display layout saved",
+  "saved.body": "Used whenever %1 are connected",
+  "widget.tooltip": "Arrange displays"
+}

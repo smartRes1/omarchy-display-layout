@@ -1,0 +1,14 @@
+{
+  "app.name": "Display Layout",
+  "panel.title": "Bildschirme anordnen",
+  "panel.saved": "Gespeicherte Anordnung für %1",
+  "panel.new": "Neue Kombination: %1 (noch nicht gespeichert)",
+  "display.laptop": "Laptop",
+  "button.discard": "Verwerfen",
+  "button.save": "Speichern",
+  "hint.idle": "Bildschirm ziehen und loslassen: rastet an der Kante ein (oben, Mitte, unten) · Esc: schließen",
+  "hint.changed": "Schon angewendet, Maus testen · Enter: speichern · Esc: zurück zum gespeicherten Stand",
+  "saved.title": "Anordnung gespeichert",
+  "saved.body": "Gilt immer, wenn %1 angeschlossen sind",
+  "widget.tooltip": "Bildschirme anordnen"
+}

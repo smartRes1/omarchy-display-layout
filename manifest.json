@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "smartres1.display-layout",
+  "name": "Display Layout",
+  "version": "1.0.0",
+  "author": "smartRes1",
+  "description": "Arrange the displays with the mouse and keep one layout per combination of connected displays",
+  "kinds": [
+    "overlay",
+    "bar-widget"
+  ],
+  "keepLoaded": true,
+  "entryPoints": {
+    "overlay": "Displays.qml",
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Display Layout",
+    "description": "Opens the panel to arrange the displays",
+    "category": "System",
+    "defaultSection": "right",
+    "allowMultiple": false
+  }
+}
